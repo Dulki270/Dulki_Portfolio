@@ -40,7 +40,7 @@ export const Projects = () => {
               </div>
             </div>
 
-            {/* ERP System Card */}
+            {/* portfolio Card */}
             <div className="p-6 rounded-xl border border-white/10 hover:-translate-y-1 transition-all hover:shadow-[0_2px_8px_rgba(59,130,246,0.2)]">
               <h3 className="text-xl font-bold mb-2">Portfolio Website</h3>
               <p className="text-gray-400 mb-4">
@@ -62,7 +62,7 @@ export const Projects = () => {
 
               <div className="flex justify-between items-center">
                 <a
-                  href="https://github.com/Dulki270/diluclothing.git"
+                  href="https://github.com/Dulki270/Dulki_Portfolio"
                   target="_blank"
                   className="text-blue-400 hover:text-blue-300 transition-colors my-4"
                 >
