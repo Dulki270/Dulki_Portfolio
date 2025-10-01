@@ -1,8 +1,25 @@
 import { RevealOnScreen } from "../RevealOnscreen";
 
 export const About = () => {
-  const frontEndSkills = ["HTML", "CSS", "JavaScript", "React", "Tailwind CSS", "Bootstrap"];
-  const backEndSkills = ["Node.js", "SpringBoot", "MySQL", "Java"];
+  const frontEndSkills = [
+    "HTML",
+    "CSS",
+    "JavaScript",
+    "React",
+    "Tailwind CSS",
+    "Bootstrap"
+  ];
+
+  const backEndSkills = [
+    "Node.js",
+    "Express.js",
+    "MongoDB",
+    "Spring Boot",
+    "MySQL",
+    "Java",
+    "Postman"
+  ];
+
 
   return (
     <section id="about" className="min-h-screen flex items-center justify-center p-20">

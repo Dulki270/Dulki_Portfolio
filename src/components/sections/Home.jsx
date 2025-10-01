@@ -11,7 +11,7 @@ export const Home = () => {
                     Hi, I am Dulki Kavindya
                 </h1>
                 <p  className="text-gray-40 text-lg m-8 max-w-lg mx-auto">
-                    I'm full-stak developer who loves crafting clean, scalable web applications. My goal is to build solution that ofter both expectional performance and delightfull user experience.
+                    I’m a passionate software engineering student with experience in web development, database design, and building full-stack applications. I enjoy creating efficient, user-friendly systems and have worked on projects like a Sales & Production Management System for clothing buisness. Explore my portfolio to see my work and skills in action.
                 </p>
                 <div className="flex justify-center space-x-4">
                     <a href="#projects" className="bg-blue-500 text-white py-3 px-6 rounded font-medium transition relative overflow-hidden hover:-translate-y-0.5 
